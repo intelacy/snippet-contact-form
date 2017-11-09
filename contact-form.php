@@ -13,7 +13,7 @@ if(!defined('MODX_BASE_PATH')) {die("For god's sake man, what are you doing? Get
  * @internal    @installset base
  * @documentation None
  * @author      Jason Edelbrock
- * @link        https://www.intelacyber.com/index.php?id=1
+ * @link        https://github.com/intelacy/snippet-contact-form.git
  * @lastupdate  11/09/2017
  */
 $name=$email=$subject=$message=null;
